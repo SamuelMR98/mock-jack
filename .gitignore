@@ -1,0 +1,12 @@
+# Mac Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Executable Files
+*.exe
+*.dll
+*.so
+
+# Log Files
+*.log
